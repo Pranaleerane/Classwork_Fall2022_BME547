@@ -17,5 +17,7 @@ The Database will contain:
 * address
 * Blood type
 * Test Results
-   1. HDL 
+   1. HDL
+      + High density Lipoprotein
    1. LDL
+      + Low density Lipoprotein
