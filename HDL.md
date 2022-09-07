@@ -1,1 +1,1 @@
-##High density Lipoprotein
+High density Lipoprotein
