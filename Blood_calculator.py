@@ -22,6 +22,9 @@ def input_HDL():
     HDL_input = input("Enter the HDL value:")
     return int(HDL_input)
 
+def printing ():
+    x = 5
+    print(x)
 
 def check_HDL(HDL_value):
     if HDL_value >= 60:
